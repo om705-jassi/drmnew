@@ -1,4 +1,4 @@
-api_id = 27815405
-api_hash = "4e70821cd2af3322f7cf2f2887e32821"
-bot_token = "6872534523:AAH9sblEb9jBRHR_oTiW9HaPQdehKGLGWg8"
+api_id = 22114233
+api_hash = "d7abcec5c967414fadb1d438fa05ebea"
+bot_token = "7038307156:AAGVZKjcINqKRVRD_HMdywDkdUo5YGJpDrk"
 # Bot Username = "@gsdkkdbot"
